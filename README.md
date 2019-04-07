@@ -10,7 +10,7 @@ pkg install python
 pip install --upgrade pip
 pip install requests
 git clone https://github.com/kadal15/CoinPade.git
-cd CoinPadw
+cd CoinPade
 pkg install nano
 nano config.json
 python bot.py</code></pre>
