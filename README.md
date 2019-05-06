@@ -20,9 +20,7 @@ python bot.py</code></pre>
 <p>Isi Dengan Data Milik Anda</p>
 
 <pre><code>{
-      "androidDeviceToken": "xxxxxxxxxxxxxxxxxxxxx",
-      "api_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "device_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }</code></pre>
 
 ### Kunjungi Juga
